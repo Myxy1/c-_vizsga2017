@@ -19,7 +19,7 @@ namespace vizsga2017_Merenyi_Miklos_14S
         {
             InitializeComponent();
         }
-
+        //második oldal
         private void Form2_Load(object sender, EventArgs e)
         {
             try
